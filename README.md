@@ -1,6 +1,6 @@
 # YouTube
 
-## Econometrics with R Project 
+## 데이터 분석 - R Project
 
 * https://youtu.be/AU7eR7qSN7k
 
@@ -22,7 +22,7 @@
 
 * https://youtu.be/6vsZGJpsYJk
 
-## Econometrics with Python
+## 데이터 분서 - Python
 
 * https://youtu.be/65p_rdzYhfA
 
