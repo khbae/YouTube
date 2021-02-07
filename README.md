@@ -22,5 +22,55 @@
 
 * https://youtu.be/6vsZGJpsYJk
 
+## Econometrics with Python
+
+* https://youtu.be/65p_rdzYhfA
+
+* https://youtu.be/o8aFbLCHo1g
+
+* https://youtu.be/-w5ewpUGviA
+
+* https://youtu.be/Y5L0xjmYnns
+
+* https://youtu.be/cFYY5zDMHZE
+
+* https://youtu.be/DTwL77F5GTk
+
+* https://youtu.be/BeI1463ZkJc
+
+* https://youtu.be/F8b89jvZafo
+
+* https://youtu.be/pwXEpL6zCJk
+
+* https://youtu.be/1cyAHVde0HQ
+
+* https://youtu.be/lFg8iphAQts
+
+* https://youtu.be/QosWtuLQicM
+
+* https://youtu.be/UuQ0K1Z_KtI
+
+* https://youtu.be/xb5WtQYOG0U
+
+* https://youtu.be/Z_fcHGs9zC4
+
+## 주식시장의 이해
+
+* https://youtu.be/OkBSfzC1h7A
+
+* https://youtu.be/jykpD0r7r68
+
+* https://youtu.be/aZsM5dFyqLM
+
+* https://youtu.be/Hts5PsiUf90
+
+* https://youtu.be/NeoVgozSgWI
+
+* https://youtu.be/Btp7i2Y1uzw
+
+* https://youtu.be/1KtVxZNkzhk
+
+* https://youtu.be/skeOliLLvmY
+
 
 
