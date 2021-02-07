@@ -72,6 +72,16 @@
 
 * https://youtu.be/skeOliLLvmY
 
+## 파생상품
+
+* https://youtu.be/Cvion_n7T44
+
+* https://youtu.be/nlkTU8u6fhI
+
+* https://youtu.be/QBHTPoNIt0M
+
+* https://youtu.be/ety_T2MV4fM
+
 ## 블록체인
 
 * https://youtu.be/yduGU5FpUGs
