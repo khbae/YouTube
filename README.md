@@ -22,7 +22,7 @@
 
 * https://youtu.be/6vsZGJpsYJk
 
-## 데이터 분서 - Python
+## 데이터 분석 - Python
 
 * https://youtu.be/65p_rdzYhfA
 
